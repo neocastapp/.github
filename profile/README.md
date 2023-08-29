@@ -20,4 +20,4 @@
 
 > NeoCast understands the importance of a developer-friendly ecosystem. With a simple and intuitive integration process, DApp developers can swiftly incorporate NeoCast's powerful features into their projects, amplifying their capabilities without unnecessary complexity. NeoCast's flexibility means that developers can focus on innovation, secure in the knowledge that their DApp's communication and monitoring needs are expertly catered to.
 
-> In the realm of DApp development, NeoCast stands as an indispensable asset, elevating communication, engagement, and monitoring to unprecedented heights. Join us in shaping the future of decentralized applications with NeoCast, where every interaction becomes a seamless, engaging, and empowered experience.
+In the realm of DApp development, NeoCast stands as an indispensable asset, elevating communication, engagement, and monitoring to unprecedented heights. Join us in shaping the future of decentralized applications with NeoCast, where every interaction becomes a seamless, engaging, and empowered experience.
